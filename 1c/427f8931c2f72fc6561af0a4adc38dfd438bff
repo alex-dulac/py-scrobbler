@@ -1,0 +1,24 @@
+run.sh
+  s_50f6f0a9d1c036::t_51bfd5c203d6f5 3
+pyproject.toml
+  s_50f6f0a9d1c036::t_ab896c4f82412e 5-20
+  s_50f6f0a9d1c036::t_eddf16fc057644 1-4
+README.md
+  s_50f6f0a9d1c036::t_c51563d9512f37 11-16,22-26,37,39,42,53,59,70,79-84,133-134,136-139,148,152,168-184
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "1c427f8931c2f72fc6561af0a4adc38dfd438bff",
+  "prompts": {},
+  "sessions": {
+    "s_50f6f0a9d1c036": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "683097e2-dc73-4a0c-b2b1-6a1a7c54d088",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Alex Dulac <alex@alexdulac.dev>"
+    }
+  }
+}
