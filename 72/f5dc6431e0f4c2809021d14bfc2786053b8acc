@@ -1,0 +1,22 @@
+core/database.py
+  s_50f6f0a9d1c036::t_9a2554278f9482 61
+  s_50f6f0a9d1c036::t_76f6e31385ab27 31
+  s_50f6f0a9d1c036::t_fd8d915d0ffe6a 57-60
+  s_50f6f0a9d1c036::t_c04a6e6aebae53 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "72f5dc6431e0f4c2809021d14bfc2786053b8acc",
+  "prompts": {},
+  "sessions": {
+    "s_50f6f0a9d1c036": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "683097e2-dc73-4a0c-b2b1-6a1a7c54d088",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Alex Dulac <alex@alexdulac.dev>"
+    }
+  }
+}
